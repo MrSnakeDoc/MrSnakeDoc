@@ -1,16 +1,37 @@
-### Hi there 👋
+```js
+module.exports = class Me {
+  constructor(obj = {}) {
+    for (const prop in obj) {
+      this[prop] = obj[prop];
+    }
+  }
 
-<!--
-**MrSnakeDoc/MrSnakeDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  static getKnownTechnologies() {
+    return {
+      Languages: ["Javascript", "NodeJS"],
+      Frameworks: ["ExpressJS", "GraphQL"],
+      Softwares: {
+        inProgress: ["Docker", "Kubernetes", "AWS", "Azure"],
+        Known: ["Sqitch", "PGAdmin4"],
+        Databases: ["PostgreSQL", "Redis", "MongoDB"],
+      },
+    };
+  }
 
-Here are some ideas to get you started:
+  static getGoalsToCome() {
+    const certifications = [
+      "AWS Certified Cloud Practitioner",
+      "Microsoft Certified: Azure Fundamentals",
+      "AWS Certified Solutions Architect – Associate",
+      "Microsoft Certified: Azure Solutions Architect Expert",
+    ];
+    return `Get multiple certifications ${certifications} for the purposes of becoming an accomplished DevOPS.`;
+  }
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSnakeDoc&layout=compact&theme=dark)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSnakeDoc&repo=oparadis&theme=dark)](https://github.com/MrSnakeDoc/oparadis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSnakeDoc&repo=Tinierurl&theme=dark)](https://github.com/MrSnakeDoc/Tinierurl/tree/dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSnakeDoc&repo=weather-app&theme=dark)](https://github.com/MrSnakeDoc/weather-app)
