@@ -1,15 +1,18 @@
 <center>
 <img src="./489213.jpg" alt="imadev" style="max-width: 100%;" />
 </center>
-<h1 style="text-align:center;">Hi there! I'm a MrSnakeDoc <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;"></h1>
-<h2 style="text-align:center; margin-bottom:0.5rem;">API NodeJS web developer</h2>
+
+<center>
+<h1 >Hi there! I'm a MrSnakeDoc <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;"></h1>
+<h2 style="margin-bottom:0.5rem;">API NodeJS web developer</h2>
+</center>
 
 <p style="font-size: 16px;">For almost three years now, I've been learning web development, especially in Javascript with discord bot and API. I have a bot present on 10 servers for a total of 300 users. For the last six months I have been attending a bootcamp to learn more about web development and API.</p>
 <p style="font-size: 16px;">I'm a tech enthusiast, and even though i am most interested in working with node.js as it is my main specialization i'm also excited to learn more in depth Typescript, ExpressJS, GraphQL, Docker, Kubernetes, Ansible, AWS, Azure, Sonarqube, Datadog, Rust and many more great technologies.</p>
 <p style="font-size: 16px;">I plan, while working, for the next two or three years, to obtain four certifications : AWS Certified Cloud Practitioner, Microsoft Certified: Azure Fundamentals, AWS Certified Solutions Architect – Associate, Microsoft Certified: Azure Solutions Architect Expert.</p>
 <p style="font-size: 16px;">True believer in Docker, I have been tinkering with it since I discovered the power of containers and i'm looking forward to try new things with Docker and Kubernetes.</p>
 
-<h3>Here is my stack </h3>
+<h3>Here is my stack</h3>
 
 <h3>Languages</h3>
 
