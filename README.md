@@ -33,5 +33,5 @@ module.exports = class Me {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSnakeDoc&layout=compact&theme=dark)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSnakeDoc&repo=oparadis&theme=dark)](https://github.com/MrSnakeDoc/oparadis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSnakeDoc&repo=Tinierurl&theme=dark)](https://github.com/MrSnakeDoc/Tinierurl/tree/dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSnakeDoc&repo=Tinierurl&theme=dark)](https://github.com/MrSnakeDoc/Tinierurl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrSnakeDoc&repo=weather-app&theme=dark)](https://github.com/MrSnakeDoc/weather-app)
