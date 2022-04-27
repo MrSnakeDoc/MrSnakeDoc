@@ -46,12 +46,8 @@
 ![](https://img.shields.io/badge/tool-AWS-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/tool-Azure-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=FFB900)
 
-<center>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSnakeDoc&layout=compact&langs_count=6&theme=github_dark)
-</center>
-<center>
+
 ![MrSnakeDoc GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSnakeDoc&show_icons=true&theme=github_dark)
-</center>
-<center>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrSnakeDoc&theme=blueberry_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</center>
