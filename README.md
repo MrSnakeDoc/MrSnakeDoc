@@ -8,21 +8,21 @@
 <p style="font-size: 16px;">I plan, while working, for the next two or three years, to obtain four certifications : AWS Certified Cloud Practitioner, Microsoft Certified: Azure Fundamentals, AWS Certified Solutions Architect – Associate, Microsoft Certified: Azure Solutions Architect Expert.</p>
 <p style="font-size: 16px;">True believer in Docker, I have been tinkering with it since I discovered the power of containers and i'm looking forward to try new things with Docker and Kubernetes.</p>
 
-<h3>Here is my stack</h3>
+<h3 style="font-size:26px">Here is my stack</h3>
 
-<h3>Languages</h3>
+<h3 style="font-size:24px">Languages</h3>
 
 ![](https://img.shields.io/badge/code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/code-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/code-CSS/SASS-blue?style=for-the-badge&logo=sass&logoColor=white&color=CC6699)
 
-<h3>Front end tools</h3>
+<h3 style="font-size:24px">Front end tools</h3>
 
 ![](https://img.shields.io/badge/tool-JavaScript-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/tool-PUG-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/tool-EJS-blue?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 
-<h3>Back end tools</h3>
+<h3 style="font-size:24px">Back end tools</h3>
 
 ![](https://img.shields.io/badge/BDD-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/BDD-Redis-blue?style=for-the-badge&logo=postgresql&logoColor=white&color=D22B21)
@@ -34,7 +34,7 @@
 ![](https://img.shields.io/badge/tool-Sqitch-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=52B0E7)
 ![](https://img.shields.io/badge/tool-PGAdmin4-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=52B0E7)
 
-<h3>Tech in learning</h3>
+<h3 style="font-size:24px">Currently learning</h3>
 
 ![](https://img.shields.io/badge/tool-Docker-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/tool-Kubernetes-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=326DE6)
