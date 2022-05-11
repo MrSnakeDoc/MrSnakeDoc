@@ -42,6 +42,13 @@
 ![](https://img.shields.io/badge/tool-AWS-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/tool-Azure-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=FFB900)
 
+<h3 style="font-size:24px">Connect With Me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sami-elabbadi/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrSnakeDoc&layout=compact&langs_count=6&theme=github_dark)
 
 ![MrSnakeDoc GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSnakeDoc&show_icons=true&theme=github_dark)
