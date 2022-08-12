@@ -4,7 +4,7 @@
 </center>
 
 <p style="font-size: 16px;">For almost three years now, I've been learning web development, especially in Javascript with discord bot and API. I have a bot present on 10 servers for a total of 300 users. For the last six months I have been attending a bootcamp to learn more about web development and API.</p>
-<p style="font-size: 16px;">I'm a tech enthusiast, and even though i am most interested in working with node.js as it is my main specialization i'm also excited to learn more in depth Typescript, ExpressJS, GraphQL, Docker, Kubernetes, Ansible, AWS, Azure, Sonarqube, Datadog, Rust and many more great technologies.</p>
+<p style="font-size: 16px;">I'm a tech enthusiast, and even though i am most interested in working with node.js as it is my main specialization i'm also excited to learn more in depth Docker, Kubernetes, Ansible, AWS, Azure, Sonarqube, Datadog, Golang and Python and many more great technologies.</p>
 <p style="font-size: 16px;">I plan, while working, for the next two or three years, to obtain four certifications : AWS Certified Cloud Practitioner, Microsoft Certified: Azure Fundamentals, AWS Certified Solutions Architect – Associate, Microsoft Certified: Azure Solutions Architect Expert.</p>
 <p style="font-size: 16px;">True believer in Docker, I have been tinkering with it since I discovered the power of containers and i'm looking forward to try new things with Docker and Kubernetes.</p>
 
