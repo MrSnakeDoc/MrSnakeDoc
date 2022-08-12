@@ -12,6 +12,7 @@
 
 <h3 style="font-size:24px">Languages</h3>
 
+![](https://img.shields.io/badge/Code-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/code-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/code-HTML5-blue?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/code-CSS/SASS-blue?style=for-the-badge&logo=sass&logoColor=white&color=CC6699)
@@ -24,13 +25,15 @@
 
 <h3 style="font-size:24px">Back end tools</h3>
 
+![](https://img.shields.io/badge/tool-NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white&color=000000)
+![](https://img.shields.io/badge/tool-Express-blue?style=for-the-badge&logo=express&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/BDD-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/BDD-Redis-blue?style=for-the-badge&logo=postgresql&logoColor=white&color=D22B21)
 ![](https://img.shields.io/badge/BDD-MongoDB-blue?style=for-the-badge&logo=postgresql&logoColor=white&color=09A445)
 ![](https://img.shields.io/badge/tool-Node-blue?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
-![](https://img.shields.io/badge/tool-Express-blue?style=for-the-badge&logo=express&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/tool-GraphQL-blue?style=for-the-badge&logo=socket.io&logoColor=white&color=E033AF)
 ![](https://img.shields.io/badge/tool-Axios-blue?style=for-the-badge&logoColor=white&color=5a29e4)
+![](https://img.shields.io/badge/tool-Prisma-blue?style=for-the-badge&logo=prisma&logoColor=white&color=52B0E7)
 ![](https://img.shields.io/badge/tool-Sqitch-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=52B0E7)
 ![](https://img.shields.io/badge/tool-PGAdmin4-blue?style=for-the-badge&logo=sequelize&logoColor=white&color=52B0E7)
 
