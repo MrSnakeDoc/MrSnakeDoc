@@ -1,5 +1,5 @@
 <center>
-<h1 align="center">Hi there! I'm a MrSnakeDoc <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fgolang-icon-1594x2048-0xixr8zr.png&f=1&nofb=1&ipt=a6d1028bf8e871b3b59b8a382b3f7713b611862da5d13384b808d0f56bbd360d" width="30px" style="max-width: 100%;"></h1>
+<h1 align="center">Hi there! I'm a MrSnakeDoc <img src="./idnfye9g.png" width="30px" style="max-width: 100%;"></h1>
 
 <h2 align="center">Backend Developer | DevOps-In-Progress | Golang Convert 🚀</h2>
 
